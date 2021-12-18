@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444556204733",
+    "project_id": "softdroid-10c6c",
+    "storage_bucket": "softdroid-10c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444556204733:android:3eb8163636b96a03d935d4",
+        "android_client_info": {
+          "package_name": "com.softdroid.puzzlev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444556204733-aom5dan6osjkqcv0l0j5leu6snged3os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAez2oqHW-j44N8mS7zG9Y-EVSi9MEemvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444556204733-aom5dan6osjkqcv0l0j5leu6snged3os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
